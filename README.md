@@ -24,8 +24,10 @@ Hi! I am a 30 y.o. Full Stack Developer <img src="https://media.giphy.com/media/
 
 - :mortar_board: Currently studying for Computer Sciense Bachelor Degree at [UNIPI](unipi.it).
 
-<div id="languages" align=center>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tobet&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div id="languages" align="center">
+    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tobet&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 <div id="social" align="center">
