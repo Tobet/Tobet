@@ -24,7 +24,11 @@ Hi! I am a 30 y.o. Full Stack Developer <img src="https://media.giphy.com/media/
 
 - :mortar_board: Currently studying for Computer Sciense Bachelor Degree at [UNIPI](unipi.it).
 
-<div id="header" align="center">
+<div id="languages" align=center>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tobet&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+<div id="social" align="center">
   
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   
@@ -32,10 +36,7 @@ Hi! I am a 30 y.o. Full Stack Developer <img src="https://media.giphy.com/media/
   <a href="https://www.linkedin.com/in/tobet-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-    
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tobet&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-    
+        
   <!-- <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
