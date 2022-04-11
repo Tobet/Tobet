@@ -24,8 +24,6 @@ Hi! I am a 30 y.o. Full Stack Developer <img src="https://media.giphy.com/media/
 
 - :mortar_board: Currently studying for Computer Sciense Bachelor Degree at [UNIPI](unipi.it).
 
-- :zap: 
-
 <div id="header" align="center">
   
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
