@@ -14,9 +14,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Hi! I am a 30 y.o. Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Italy.
+
 ---
 
 ### :man_technologist: About Me :
+
+- :computer: Programming since i was 16.
+
+- :mortar_board: Currently studying for Computer Sciense Bachelor Degree at [UNIPI](unipi.it).
+
+- :zap: 
 
 <div id="header" align="center">
   
