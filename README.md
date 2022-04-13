@@ -26,7 +26,7 @@ Hi! I am a 30 y.o. Full Stack Developer <img src="https://media.giphy.com/media/
 
 <div id="languages" align="center">
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tobet&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tobet)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
