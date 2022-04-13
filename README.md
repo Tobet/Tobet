@@ -45,6 +45,7 @@ Hi! I am a 30 y.o. Full Stack Developer <img src="https://media.giphy.com/media/
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a> -->
+      
   </div>
   
 </div>
