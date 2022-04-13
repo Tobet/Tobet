@@ -20,7 +20,7 @@ Hi! I am a 30 y.o. Full Stack Developer <img src="https://media.giphy.com/media/
 
 ### :man_technologist: About Me :
 
-- :computer: Programming since i was 16.
+- :computer: Programming since I was 16.
 
 - :mortar_board: Currently studying for Computer Science Bachelor Degree at [UNIPI](unipi.it).
 
