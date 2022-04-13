@@ -49,5 +49,3 @@ Hi! I am a 30 y.o. Full Stack Developer <img src="https://media.giphy.com/media/
   </div>
   
 </div>
-
-
